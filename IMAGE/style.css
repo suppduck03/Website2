@@ -1,0 +1,199 @@
+body{
+	color:#40514E;
+	margin:0;
+	text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+.firstSec{
+    padding: 0;
+    background-color:#e4f9f5;
+    max-height: 708px
+}
+.firstSec .firstCloud{
+    position: relative;
+    padding-top: 2em;
+    left: 22em;
+}
+.firstSec h1{
+    color:#66BFBF;
+	Margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+	font-size:5.55rem;
+}
+.firstSec h2{
+    color:#66BFBF;
+	font-family: 'Montserrat', sans-serif;
+	font-size:2.425rem;
+	font-weight: normal;
+	padding-bottom: 10px;
+}
+.firstSec .secCloud{
+    display: block;
+    padding-top: 1.25em;
+    position: relative;
+    left: 250px;
+}
+.firstSec .mountain{
+    position: relative;
+    bottom: 100px;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.secondSec{
+    margin: 0 auto;
+    padding: 0;
+    max-width: 400px;
+}
+.secondSec img{
+    padding-top: 80px;
+    padding-bottom: 5px;
+    width: 50%;
+}
+.secondSec h1{
+    color:#66BFBF;
+	font-family: 'Montserrat', sans-serif;
+	font-size:2.425rem;
+	font-weight: normal;
+	padding-bottom: 10px;
+}
+
+hr{
+    border: dotted #EAF6F6 6px;
+	border-bottom:none;
+	width:4%;
+	margin: 100px auto;
+}
+
+.thirdSec{
+    margin: 0 auto;
+    padding: 0;
+    max-width: 900px;
+}
+.thirdSec h1{
+    color:#66BFBF;
+	font-family: 'Montserrat', sans-serif;
+	font-size:2.425rem;
+	font-weight: normal;
+    padding-bottom: 70px;
+    
+}
+.thirdSec .firstImg{
+    float: left;
+    width: 25%;
+	margin-right: 30px;
+}
+.thirdSec h2{
+    color:#2a9ea3;
+	font-family: 'Montserrat', sans-serif;
+    font-weight: 1000;
+    font-size: 1rem;
+}
+.thirdSec p{
+    padding-bottom: 40px;
+    line-height: 1.80;
+    font-family: serif;
+}
+.thirdSec h2, .thirdDiv p{
+    text-align: left;
+}
+
+
+.thirdSec .secImg{
+    float: right;
+    width: 25%;
+    margin-left: 10px;
+    padding: 0;
+}
+
+.fourthSec{
+    margin: 0 auto;
+    padding: 0;
+    max-width: 500px;
+    margin-top: 120px;
+}
+
+.fourthSec h1{
+    color:#66BFBF;
+	font-family: 'Montserrat', sans-serif;
+	font-size:2.425rem;
+	font-weight: normal;
+    padding-bottom: 10px;
+}
+.fourthSec h2{
+    color:#2a9ea3;
+	font-family: 'Montserrat', sans-serif;
+    font-weight: 1000;
+    font-size: 1rem;
+    padding-bottom: 15px;
+}
+.fourthSec p{
+    padding-bottom: 10px;
+    line-height: 1.80;
+    font-family: serif;
+    padding-bottom: 40px;
+}
+.fourthSec a{
+    padding: 15px 20px;
+    background: #57f0e3;
+  background-image: -webkit-linear-gradient(top, #57f0e3, #1e84b3);
+  background-image: -moz-linear-gradient(top, #57f0e3, #1e84b3);
+  background-image: -ms-linear-gradient(top, #57f0e3, #1e84b3);
+  background-image: -o-linear-gradient(top, #57f0e3, #1e84b3);
+  background-image: linear-gradient(to bottom, #57f0e3, #1e84b3);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+    color: #e4f9f5;
+
+    border-radius: 12px;
+    text-decoration: none;
+    font-style: italic;
+    font-family: 'Montserrat', sans-serif;
+}
+.fourthSec a:hover{
+    color: #ffffff;
+    background: #66bfbf;
+    background-image: -webkit-linear-gradient(top, #66bfbf, #66bfbf);
+    background-image: -moz-linear-gradient(top, #66bfbf, #66bfbf);
+    background-image: -ms-linear-gradient(top, #66bfbf, #66bfbf);
+    background-image: -o-linear-gradient(top, #66bfbf, #66bfbf);
+    background-image: linear-gradient(to bottom, #66bfbf, #66bfbf);
+}
+
+.fifthSec{
+    line-height: 50px;
+    padding: 5px;
+    background-color: #66bfbf;
+    margin-top: 80px;
+    padding: 30px 60px;
+}
+.fifthSec ul{
+    list-style: none;
+    margin: 0 auto;
+    text-align: center;
+}
+.fifthSec ul li{
+    display: inline-block;
+    padding: 10px 15px;
+}
+.fifthSec ul li a{
+    text-decoration: none;
+    font-style: italic;
+    font-weight: 900;
+    font-family: 'Montserrat', sans-serif;
+    color: #45a7a7;
+
+}
+.fifthSec ul li a:hover{
+    color: #ffffff;
+}
+.fifthSec footer{
+    font-size: .8rem;
+    font-family: serif;
+    color: #ffffff;
+}
+
